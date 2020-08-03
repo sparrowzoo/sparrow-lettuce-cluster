@@ -20,7 +20,6 @@ package com.sparrow.cache.impl.redis.lettuce;
 import com.sparrow.cache.CacheKey;
 import com.sparrow.constant.cache.KEY;
 import com.sparrow.exception.CacheConnectionException;
-import redis.clients.jedis.ShardedJedis;
 
 /**
  * Created by harry on 2018/1/26.
